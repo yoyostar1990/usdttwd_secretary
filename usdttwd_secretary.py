@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 📋 USDT/TWD 刷發票秘書（新手版）—— MAX 交易所
-沒有帳號可以申請：https://max.maicoin.com/signup?r=1834cca6
+沒有帳號可以申請：https://max.maicoin.com/signup?r=1834cca6 (我的推薦碼)
 
 【核心策略】
   帳上的 USDT（數位美元）和台幣維持各一半（1:1），每天自動成交一筆小單，
